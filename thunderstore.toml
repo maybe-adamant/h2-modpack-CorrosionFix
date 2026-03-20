@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "CorrosionFix"
 versionNumber = "1.0.0"
 description = "Fixes corrosion aggroing mobs on thessaly boats."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-CorrosionFix"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-CorrosionFix"
 containsNsfwContent = false
 
 [package.dependencies]

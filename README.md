@@ -1,11 +1,10 @@
 # Corrosion Fix
 
-> A bug fix that prevents the "Corrosion" status effect from unintentionally drawing aggro from enemies on the boats in Thessaly.
+> A bug fix that caused the "Corrosion on Sight" curse to unintentionally drawing aggro from enemies on the boats in Thessaly.
 
 ## Features
 
 - Fixes a bug where applying the "Corrosion" curse to enemies on the boats in Thessaly would cause them to become hostile before the player lands on the boat.
-- This prevents a potentially unfair and chaotic start to those encounters.
 
 ## Installation
 

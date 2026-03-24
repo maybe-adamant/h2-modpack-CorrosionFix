@@ -27,6 +27,7 @@ public.definition = {
     tooltip  = "Fixes corrosion aggroing mobs on thessaly boats.",
     default  = true,
     dataMutation = true,
+    modpackModule = true,
 }
 
 -- =============================================================================
